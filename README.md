@@ -1,4 +1,4 @@
-## Language-Based Audio Retrieval
+# Language-Based Audio Retrieval
 
 <!-- TOC -->
   * [Language-Based Audio Retrieval](#language-based-audio-retrieval)
@@ -7,7 +7,10 @@
     * [Conferences](#conferences)
 <!-- TOC -->
 
-### References
+A curated list of academic resources on Language-Based Audio Retrieval.
+
+
+## References
 
 | Year | Title                                                                                                            | Link                                                                                                              | GitHub                                                              |
 |------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -50,7 +53,8 @@
 | 2002 | Semantic-audio retrieval                                                                                         | [ICASSP](https://ieeexplore.ieee.org/document/5745561)                                                            |                                                                     |
 | 1999 | An overview of audio information retrieval                                                                       | [Article](https://link.springer.com/article/10.1007/s005300050106)                                                |                                                                     |
 
-### Competitions
+
+## Competitions
 
 | Year | Competition                 | Link                                                                                                              |
 |------|-----------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -58,7 +62,8 @@
 | 2023 | DCASE 2023 Challenge Task 6 | [DCASE](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval) |
 | 2022 | DCASE 2022 Challenge Task 6 | [DCASE](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval) |
 
-### Conferences
+
+## Conferences
 
 | Conference                                                                            |
 |---------------------------------------------------------------------------------------|
