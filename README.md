@@ -9,6 +9,7 @@ A curated list of academic papers, datasets, and other resources on Language-Bas
 
 <!-- TOC -->
 * [Papers](#papers)
+  * [Year 2025](#year-2025)
   * [Year 2024](#year-2024)
   * [Year 2023](#year-2023)
   * [Year 2022](#year-2022)
@@ -21,6 +22,14 @@ A curated list of academic papers, datasets, and other resources on Language-Bas
 
 
 ## Papers
+
+
+### Year 2025
+
+| Year | Title                                                                                                   | Paper                                     | Code                                           |
+|------|---------------------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
+| 2025 | TAIL: Text-Audio Incremental Learning                                                                   | [arXiv](https://arxiv.org/abs/2503.04258) |                                                |
+| 2025 | ATRI: Mitigating Multilingual Audio Text Retrieval Inconsistencies by Reducing Data Distribution Errors | [arXiv](https://arxiv.org/abs/2502.14627) | [GitHub](https://github.com/ATRI-ACL/ATRI-ACL) |
 
 
 ### Year 2024
