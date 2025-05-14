@@ -26,12 +26,14 @@ A curated list of academic papers, datasets, and other resources on Language-Bas
 
 ### Year 2025
 
-| Year | Title                                                                                                                    | Paper                                     | Code                                           |
-|------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
-| 2025 | CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining | [arXiv](https://arxiv.org/abs/2503.23128) |                                                |
-| 2025 | M2D2: Exploring General-purpose Audio-Language Representations Beyond CLAP                                               | [arXiv](https://arxiv.org/abs/2503.22104) |                                                |
-| 2025 | TAIL: Text-Audio Incremental Learning                                                                                    | [arXiv](https://arxiv.org/abs/2503.04258) |                                                |
-| 2025 | ATRI: Mitigating Multilingual Audio Text Retrieval Inconsistencies by Reducing Data Distribution Errors                  | [arXiv](https://arxiv.org/abs/2502.14627) | [GitHub](https://github.com/ATRI-ACL/ATRI-ACL) |
+| Year | Title                                                                                                                    | Paper                                     | Code                                             |
+|------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------------|
+| 2025 | TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining                                                  | [arXiv](https://arxiv.org/abs/2505.07609) | [GitHub](https://github.com/OptimusPrimus/tacos) |
+| 2025 | FLAM: Frame-Wise Language-Audio Modeling                                                                                 | [ICML](https://arxiv.org/abs/2505.05335)  |                                                  |
+| 2025 | CrossMuSim: A Cross-Modal Framework for Music Similarity Retrieval with LLM-Powered Text Description Sourcing and Mining | [arXiv](https://arxiv.org/abs/2503.23128) |                                                  |
+| 2025 | M2D2: Exploring General-purpose Audio-Language Representations Beyond CLAP                                               | [arXiv](https://arxiv.org/abs/2503.22104) |                                                  |
+| 2025 | TAIL: Text-Audio Incremental Learning                                                                                    | [arXiv](https://arxiv.org/abs/2503.04258) |                                                  |
+| 2025 | ATRI: Mitigating Multilingual Audio Text Retrieval Inconsistencies by Reducing Data Distribution Errors                  | [arXiv](https://arxiv.org/abs/2502.14627) | [GitHub](https://github.com/ATRI-ACL/ATRI-ACL)   |
 
 
 ### Year 2024
